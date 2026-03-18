@@ -9,4 +9,4 @@ It provides consistent and validated PoC for AI Modelling in:
   
 - Attention Graph Neural Network development for Energy Price Forecasting in RT Market.
 
-Many of my production projects are under NDA (especially those involving MLOps frameworks), so this repo focuses on the reusable foundations rather than proprietary implementations.
+This repo focuses on the reusable foundations rather than proprietary implementations, it builds layer of AI models to be cross used among projects.
