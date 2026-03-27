@@ -1,7 +1,7 @@
 ## Overview
-This repository is a quick experimentation platform for new AI Methodologies:
+This repository is a quick experimentation platform for new AI Methodologies.
 
-It provides consistent and validated PoC for AI Modelling in:
+It provides validated PoC for AI Modelling in:
 
 - Feature-Feature Attention Maps MultivariateTime Series Analysis (iTransformer-backbone) — By tokenizing sensor features rather than time steps (i.e. feature-as-a-token) , this approach learns which signals have the most importance for a predictive (or a non-predictive) task, enabling, for example, anomaly attribution to specific sensor signals, by identifying their centrality in the attention graph. The key point is to understand which signals most sell and buy information from and to the others, in a multivariate time-series dynamic system, i.e. where features are correlated to each other (e.g., vehicle dynamics). Think of it as a way to answer not just "something is wrong" but "these signals, at this moment, are why."   
 
